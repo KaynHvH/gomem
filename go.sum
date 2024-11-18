@@ -1,0 +1,4 @@
+github.com/antonlahti/go-winapi v0.0.0-20110912181008-8d5f10e8e797 h1:sysPx6EfaNWaShKLlUra/2H4zrw38rfd2UUHIXo5IC4=
+github.com/antonlahti/go-winapi v0.0.0-20110912181008-8d5f10e8e797/go.mod h1:y/LJBGKyC3S8B9QKLs3ErvXFC2ZPmU6mrrU3JoeGVsE=
+golang.org/x/sys v0.27.0 h1:wBqf8DvsY9Y/2P8gAfPDEYNuS30J4lPHJxXSb/nJZ+s=
+golang.org/x/sys v0.27.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
